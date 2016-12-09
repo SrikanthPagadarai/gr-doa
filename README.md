@@ -1,4 +1,4 @@
-# About gr-doa
+# [About gr-doa](https://kb.ettus.com/Direction_Finding_with_the_USRP%E2%84%A2_X-Series_and_TwinRX%E2%84%A2)
 gr-doa is a demonstration on the phase synchronization capability of Ettus Research's TwinRX daughtercards. 
 TwinRX daughtercards can achieve a high degree of accurate phase synchronization except for constant 
 repeatable relative phase offsets. We provide apps to determine the accuracy of phase synchronization achieved 
